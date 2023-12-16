@@ -4,5 +4,7 @@ Everything started with my favorite series, [Gravity Falls](https://tvtropes.org
 
 ### [So how could I improve my skills?](https://github.com/BenjaminHaverla/Why.git)
 
+-------------------------------------------------------------
+
 #### [<–]()
 [Alright, that's enough. I don't want to know more.](https://github.com/BenjaminHaverla/English-essay-workflow.git)
